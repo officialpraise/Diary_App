@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246989407293",
+    "project_id": "borardappfirst",
+    "storage_bucket": "borardappfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246989407293:android:fa9e77ac205b92bbe75654",
+        "android_client_info": {
+          "package_name": "com.example.firstfirebase_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246989407293-et2v8e48tf96r7d3pubkceiumo2iapoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4z4gs-HWcZFR7WOO1Mlx_ylHf9qvcIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246989407293-et2v8e48tf96r7d3pubkceiumo2iapoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
